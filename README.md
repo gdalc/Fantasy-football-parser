@@ -9,7 +9,7 @@ How to use:
   ```
 
 Example:
- - in the parser folder, using the example file 2024.csv, run
+  In the parser folder, using the example file 2024.csv, run
    ```shell
    python3 parser.py "2024.csv"
    ```
