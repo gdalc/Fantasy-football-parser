@@ -17,3 +17,4 @@ Example:
 Next:
  - Lists for each role (Por, Dd, Ds, Dc, E, M, C, W, T, A, Pc).
  - Support with Euroleghe not tested.
+ - Support automatic download with login.
